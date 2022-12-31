@@ -1,5 +1,5 @@
 {
     "image":"ubuntu",
     "workspaceFolder": "/workspaces/gim-docs",
-	"initializeCommand": "mkdir -p ${localWorkspaceFolder}/../gim-docs",
+    "initializeCommand": "mkdir -p ${localWorkspaceFolder}/../gim-docs && touch /workspaces/gim-docs/works"
 }
